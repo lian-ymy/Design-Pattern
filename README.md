@@ -25,3 +25,9 @@
 10、享元模式(flyweight)
 
 11、代理模式(proxy)
+
+12、模板方法模式(template)
+
+13、命令模式(command)
+
+14、访问者模式(visitor)
