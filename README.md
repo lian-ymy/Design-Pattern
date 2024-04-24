@@ -31,3 +31,9 @@
 13、命令模式(command)
 
 14、访问者模式(visitor)
+
+15、迭代器模式(iterator)
+
+16、观察者模式(observer)
+
+17、中介者模式(mediator)
