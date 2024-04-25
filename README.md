@@ -1,4 +1,4 @@
-#(设计模式) Design-Model
+#(设计模式) Design Pattern
 
 有关计算机编程中非常常用的22种设计模式思想
 
