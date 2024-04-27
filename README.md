@@ -6,7 +6,7 @@
 
 1、单例模式(singleton)
 
-2、工厂模式(factory)
+2、工厂模式(factory) 备注：其中包含了抽象工厂模式
 
 3、原型模式(prototype)
 
@@ -37,3 +37,11 @@
 16、观察者模式(observer)
 
 17、中介者模式(mediator)
+
+18、解释器模式(expression)
+
+19、状态模式(state)
+
+20、策略模式(strategy)
+
+21、职责链模式(responsibilitychain)
